@@ -1,0 +1,14 @@
+{
+  "folders": [
+	{
+		"path": "../../../Library/Mobile Documents/com~apple~CloudDocs/MyProjects/Mate Academy/layout_moyo-header"
+	},
+	{
+		"name": "layout_stars",
+		"path": "../../layout_stars"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "layout_moyo-header"
+  }
+}
