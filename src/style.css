@@ -19,8 +19,8 @@ header {
   width: 1200px;
   height: 60px;
   margin: 0 auto;
-  background-color: #fff;
   padding: 0 20px;
+  background-color: #fff;
 }
 
 /* Логотип */
@@ -57,7 +57,7 @@ nav ul li a:hover {
 /* Активний пункт меню */
 .is-active {
   color: #00acdc;
-  font-weight: bold;
+  font-weight: 500;
 }
 
 .is-active::after {
@@ -85,12 +85,14 @@ nav ul li a:hover {
 
 @media (max-width: 1024px) {
   header {
-    height: 50px;
+    height: 60px;
+    width: 1024px;
+    padding: 0;
   }
 
   .logo img {
-    width: 35px;
-    height: 35px;
+    width: 40px;
+    height: 40px;
   }
 
   nav ul {
